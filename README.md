@@ -199,9 +199,9 @@ Your job is to write the following function:
 
 Some questions to consider:
 
-- How can we "iterate" through individual words in a string?
-- Can we execute an iteration inside an iteration? How?
-- How can we capitalize just the first letter in a word?
+- How can we "iterate" through individual words in a string? 
+- Can we execute an iteration inside an iteration? How? 
+- How can we capitalize just the first letter in a word?  
 
 A couple of hints:
 
